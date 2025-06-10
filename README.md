@@ -50,7 +50,7 @@ A simple **command-line Python tool** that fetches and displays real-time weathe
 2. Run the script:
 
    ```bash
-   python weather_app.py
+   python weather.py
    ```
 3. Input a city when prompted, and get instant weather details!
 
