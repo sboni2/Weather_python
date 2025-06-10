@@ -54,3 +54,5 @@ A simple **command-line Python tool** that fetches and displays real-time weathe
    ```
 3. Input a city when prompted, and get instant weather details!
 
+image.jpg
+
